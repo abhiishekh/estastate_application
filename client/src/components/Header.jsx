@@ -8,7 +8,7 @@ const Header = () => {
         <div className="flex justify-between items-ceter max-w-6xl mx-auto p-3">
 
        <Link to='/'>
-        <h1 className='font-bold text-sm sm:text-xl flex flex-wrap'>
+        <h1 className='font-bold text-sm sm:text-xl flex flex-wrap '>
             <span className='text-slate-500'>Abhishek</span>
             <span className='text-slate-700'>Maurya</span>
         </h1>
